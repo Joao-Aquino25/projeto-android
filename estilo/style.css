@@ -57,7 +57,7 @@ header>p {
     color: rgb(255, 255, 255);
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
-    width: 600px;
+    max-width: 300px;
     margin: auto;
     margin-bottom: 20px;
     padding-right: 10px;
